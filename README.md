@@ -1,1 +1,3 @@
-# Building classifiers to predict likelihood of outcome variable being equal to 1
+# Simple Classification
+
+Building classifiers to predict likelihood of outcome variable being equal to 1
